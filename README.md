@@ -11,7 +11,7 @@ Technical Leader with expertise designing, developing, and deploying highly-resi
 
 ### 💬 Interests
 
-Java, Python, Golang, Javascript, Linux, Kubernetes, Prometheus, Grafana, AWS, MongoDB, MySQL, Continuous Integration, Continuous Delivery, High-Availability, Performance, Load testing, Open-Source Software, Coaching & Mentorship, Culture Building, Agile Project Management.
+Java, Python, Golang, Javascript, Bash, Linux, Kubernetes, Prometheus, Grafana, AWS, MongoDB, MySQL, Continuous Integration, Continuous Delivery, High-Availability, Performance, Load testing, Open-Source Software, Coaching & Mentorship, Culture Building, Agile Project Management.
 
 ### 🤔 I'm currently working on ...
 
@@ -24,6 +24,7 @@ Technology, Gadgets, Baking (bread), Movies, Music.
 ### 🌱 I’m currently learning ...
 
 - Leadership / Management
+- Bazel / Starlark
 - Golang
 - Python
 - Kubernetes
