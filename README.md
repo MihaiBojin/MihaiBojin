@@ -9,7 +9,7 @@
 
 I love technology, gadgets, software, electronic music, coffee, baking bread, positivity, self-improvement, healthy living and working out.
 
-I have been tinkering with computers since I was twelve, studied computer science in high school and then went on to obtain a BSc in Informatics Engineering, a Masters' degree in Project management, and a second Masters' of Science at Trinity College of Dublin (Ireland).
+I have been tinkering with computers since I was twelve, studied computer science in high school and then went on to obtain a BSc in Informatics Engineering, a Masters' degree in Project management, and a second Masters' of Science at Trinity College of Dublin in Ireland.
 
 ### 🔭 Professional profile
 
