@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-@mihaibojin-ffffff?style=flat&labelColor=0a0a0c)](https://mihaibojin.medium.com)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Substack-ff6719?style=flat&labelColor=0a0a0c)](https://mihaibojin.substack.com)
 
-I keep critical systems reliable, and I grow the engineers who keep them that way. Today that's **[Neon](https://neon.com/)**, the serverless Postgres platform Databricks acquired in 2025. Before that, I spent several years in **Google SRE** on [the world's largest rollout system](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production), and earlier built [Ops Manager](https://www.mongodb.com/docs/ops-manager/current/) and improved the [Atlas Admin API](https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2/) experience at **MongoDB**.
+I keep critical systems reliable, and I grow the engineers who keep them that way. Today that's **[Neon](https://neon.com/)**, the serverless Postgres platform Databricks acquired in 2025. Before that, I spent several years in **Google SRE** on [the world's largest rollout system](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production), and earlier built [Ops Manager](https://www.mongodb.com/docs/ops-manager/current/) (MongoDB's private-cloud platform) and improved the [Atlas Admin API](https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2/) experience.
 
 ### Building
 
