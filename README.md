@@ -1,54 +1,25 @@
-## Hi, I'm Mihai 👋
+# Hi, I'm Mihai 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-MihaiBojin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MihaiBojin/)](https://www.linkedin.com/in/MihaiBojin/)
-[![Medium Badge](https://img.shields.io/badge/-@mihaibojin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mihaibojin)](https://medium.com/@mihaibojin)
-[![Website Badge](https://img.shields.io/badge/-mihaibojin.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://MihaiBojin.com)](https://MihaiBojin.com)
-[![Twitter Badge](https://img.shields.io/badge/-@_MihaiBojin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MihaiBojin)](https://twitter.com/MihaiBojin)
+[![Website](https://img.shields.io/badge/Website-mihaibojin.com-2bff95?style=flat&labelColor=0a0a0c)](https://mihaibojin.com)
+[![Blog](https://img.shields.io/badge/Blog-read-2bff95?style=flat&labelColor=0a0a0c)](https://mihaibojin.com/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mihai--bojin-0a66c2?style=flat&labelColor=0a0a0c)](https://www.linkedin.com/in/mihai-bojin/)
+[![Medium](https://img.shields.io/badge/Medium-@mihaibojin-ffffff?style=flat&labelColor=0a0a0c)](https://mihaibojin.medium.com)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Substack-ff6719?style=flat&labelColor=0a0a0c)](https://mihaibojin.substack.com)
 
-### 💬 About me
+I keep critical systems reliable, and I grow the engineers who keep them that way. Today that's **[Neon](https://neon.com/)**, the serverless Postgres platform Databricks acquired in 2025. Before that, I spent several years in **Google SRE** on [the world's largest rollout system](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production), and earlier built [Ops Manager](https://www.mongodb.com/docs/ops-manager/current/) and improved the [Atlas Admin API](https://www.mongodb.com/docs/api/doc/atlas-admin-api-v2/) experience at **MongoDB**.
 
-I love technology, gadgets, software, a good story, a few quite varied music genres, coffee, baking (bread), positivity, self-improvement, healthy living and working out.
+### Building
 
-I have been tinkering with computers since I was twelve, studied computer science in high school and then went on to obtain a BSc in Informatics Engineering, a Masters' degree in Project management, and a second Masters' of Science at Trinity College of Dublin in Ireland.
+- **[dotsecenv](https://dotsecenv.com)** — encrypt your `.env` secrets at rest, commit them safely, and share them with your team (AES-256-GCM + GPG, no cloud).
+- **[release.tools](https://release.tools)** — an open-source CI/CD toolkit: the releasetools CLI, [mutex](https://release.tools/mutex) (advisory locks for pipelines), and [signed-push](https://github.com/releasetools/actions/tree/main/signed-push) (signed, verified commits from CI).
 
-### 🔭 Professional profile
+### Working with
 
-Technical Leader with expertise in designing and developing highly-resilient backend systems for global enterprise companies.  Hands-on Engineering Manager with a passion for building and mentoring high-performing teams, improving productivity, and bringing innovative technology solutions to production.
+`Claude` · `Go` · `Python` · `Java` · `PostgreSQL` · `Kubernetes` · `GCP` · `AWS` · `Terraform` · `Bash`
 
-### 💬 Interests
+### Writing
 
-#### Programming languages
-- Java
-- Python
-- Golang
-- Javascript
-- Bash
+[mihaibojin.com/blog](https://mihaibojin.com/blog) (also on [Medium](https://mihaibojin.medium.com)) — system design, reliability, Go and Java, and how engineering teams actually work. [Subscribe via Substack](https://mihaibojin.substack.com).
 
-#### Technologies
-- Kubernetes
-- AWS
-- Linux
-- MongoDB
-- MySQL
-
-#### Other
-- Software Testing
-- Continuous Integration
-- Continuous Delivery
-- High-Availability
-- Software performance
-- Load testing
-- Open-Source Software
-- Coaching & Mentorship
-
-### 🤔 I'm currently working on
-
-In my spare time, I'm working on [Props](https://github.com/MihaiBojin/props).
-
-### 🌱 I’m currently learning about
-
-- Leadership / Management
-- Software testing
-- Python
-- Golang
-- Kubernetes
+![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihaiBojin&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=2bff95&icon_color=2bff95)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiBojin&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=2bff95)
