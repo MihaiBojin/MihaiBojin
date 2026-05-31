@@ -20,6 +20,3 @@ I keep critical systems reliable, and I grow the engineers who keep them that wa
 ### Writing
 
 [mihaibojin.com/blog](https://mihaibojin.com/blog) (also on [Medium](https://mihaibojin.medium.com)) — system design, reliability, Go and Java, and how engineering teams actually work. [Subscribe via Substack](https://mihaibojin.substack.com).
-
-![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MihaiBojin&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=2bff95&icon_color=2bff95)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiBojin&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=2bff95)
